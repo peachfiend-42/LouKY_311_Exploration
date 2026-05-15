@@ -13,7 +13,9 @@ Included files:
 
 ### Contributors
 josh groft
+
 peachfiend@mx.sdf.org
+
 GitHub: @peachfiend-42
 
 ### License
